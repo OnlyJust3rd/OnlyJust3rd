@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Just3rd🪿</h1>
 <h3 align="center">A sleep deprived uni student🥱 at KMUTT 🟧⚙️</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=onlyjust3rd&label=Profile%20views&color=0e75b6&style=flat" alt="onlyjust3rd" /> </p>
-
 - 🌱 I’m currently learning **React and Godot**
 
 <h3 align="left">Connect with me:</h3>
