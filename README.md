@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **React and Godot**
 
 <h3 align="left">Connect with me:</h3>
+-> <a href="linkedin.com/in/kantapong-vong/">linkedin.com/in/kantapong-vong</a>
 <p align="left">
 </p>
 
