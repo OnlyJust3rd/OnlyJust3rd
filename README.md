@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Just3rd🪿</h1>
 <h3 align="center">A sleep deprived uni student🥱 at KMUTT 🟧⚙️</h3>
 
-- 🌱 I’m currently learning **React and Godot**
+- ⚛ Learning **React**
+- 🤖 Learning Godot (Immigrated from Unity).
 
 <h3 align="left">Connect with me:</h3>
 -> <a href="linkedin.com/in/kantapong-vong/">linkedin.com/in/kantapong-vong</a>
