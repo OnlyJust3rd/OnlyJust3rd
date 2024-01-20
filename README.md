@@ -3,6 +3,7 @@
 
  - ✏️ Learning **React**
  - ✏️ Learning Godot (Unity immigrant).
+ - ✏️ Having a fight with Matlab.
 
 <h3 align="left">Connect with me:</h3>
 -> <a href="linkedin.com/in/kantapong-vong/">linkedin.com/in/kantapong-vong</a>
